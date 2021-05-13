@@ -1,0 +1,7 @@
+.btn {
+    background: hsl(0, 75%, 65%);
+    margin: 1rem auto;
+    width: fit-content;
+    padding: 0.5rem 0.75rem;
+    display: block;
+}

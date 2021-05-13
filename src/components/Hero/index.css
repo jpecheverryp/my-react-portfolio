@@ -1,5 +1,5 @@
 .hero {
-    margin-top: 1rem;
+    margin-top: 3rem;
     padding: 1rem;
     display: flex;
     gap: 1rem;
@@ -12,14 +12,7 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-}
-
-.white-text {
-    color: hsl(0, 0%, 90%);
-}
-
-.red-text {
-    color: hsl(0, 75%, 65%);
+    font-size: larger;
 }
 
 img {
