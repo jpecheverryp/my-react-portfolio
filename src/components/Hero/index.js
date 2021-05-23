@@ -10,7 +10,7 @@ function Hero() {
             <p className="red-text">Full-Stack Web Developer</p>
             </div>
             <div className="img-container">
-                <img src={profile} alt="Juan P Echeverry" />
+                <img className="rounded-img" src={profile} alt="Juan P Echeverry" />
             </div>
         </div>
     )

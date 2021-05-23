@@ -18,6 +18,9 @@
 img {
     max-width: 100%;
     display: block;
+}
+
+.rounded-img {
     border-radius: 50%;
 }
 

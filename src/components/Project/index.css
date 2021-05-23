@@ -1,0 +1,33 @@
+.project-container {
+    width: 90%;
+    margin: 1rem auto;
+    background: rgb(220,98,98);
+    background: linear-gradient(110deg, rgba(220,98,98,1) 0%, rgba(50,47,66,1) 100%);
+    border-radius: 1rem;
+}
+
+.project-heading {
+    
+    text-align: center;
+    font-size: large;
+    line-height: 4rem;
+}
+
+.img-project-container {
+    width: 90%;
+    margin: 1rem auto;
+    
+}
+.project-btn {
+    display: inline-block;
+    width: fit-content;
+    background: hsl(4, 90%, 50%);
+    color: aliceblue;
+    padding: 0.5rem 0.75rem;
+    margin: 1rem;
+    text-decoration: none;
+}
+.btn-container {
+    display: flex;
+    justify-content: center;
+}
