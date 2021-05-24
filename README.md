@@ -9,17 +9,7 @@ This is my personal portfolio repository where I show my projects and work
 - [Contribution Guidelines](#contribution)
 - [Testing Instructions](#testing)
 - [Questions](#questions)
-## Installation
-No installation needed
-## Usage
-No need to use
-## License
-This project uses the [MIT](LICENSE) License 
-## Contribution
-Project Contributions Guidelines
-## Testing
-Testing Instructions
-## Questions
+## Contact
 You can contact me at: 
 jpecheverryp@gmail.com
 and you can find me on github at:
